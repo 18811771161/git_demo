@@ -1,4 +1,4 @@
-hello git!  fix-hot 222
+hello git!  fix-hot dir
 hello git!
 hello git!
 hello git!
